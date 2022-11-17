@@ -320,6 +320,6 @@ $
 
 ## Authors ##
 
-👤 **Joshua Temiloluwa**
-👤 **Daniel Nwachukwu**
+👤 **Adeshola Adesi**
+👤 **Besufekad Gebregziabher**
 
